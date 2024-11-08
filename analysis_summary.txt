@@ -1,0 +1,5 @@
+Analysis Summary:
+- Total quantities over time plotted (total_quantities_over_time.png).
+- Distribution of quantities by warehouse plotted (quantities_by_warehouse.png).
+- Top 10 nomenclature by quantity plotted (top_nomenclature.png).
+- Top 10 counterparties by quantity plotted (top_counterparties.png).
